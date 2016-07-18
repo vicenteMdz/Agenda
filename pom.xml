@@ -117,23 +117,12 @@
 			<scope>test</scope>
 		</dependency>
 		
-<!-- 		<dependency> -->
-<!-- 		    <groupId>org.webjars</groupId> -->
-<!-- 		    <artifactId>jquery</artifactId> -->
-<!-- 		    <version>2.1.1</version> -->
-<!-- 		</dependency> -->
-		 
-<!-- 		<dependency> -->
-<!-- 		    <groupId>org.webjars</groupId> -->
-<!-- 		    <artifactId>bootstrap</artifactId> -->
-<!-- 		    <version>3.2.0</version> -->
-<!-- 		    <exclusions> -->
-<!-- 		        <exclusion> -->
-<!-- 		            <groupId>org.webjars</groupId> -->
-<!-- 		            <artifactId>jquery</artifactId> -->
-<!-- 		        </exclusion> -->
-<!-- 		    </exclusions> -->
-<!-- 		</dependency>        -->
+		<!-- GSON para convertir listas de java a objetos json para angular js -->
+		<dependency>
+		    <groupId>com.google.code.gson</groupId>
+		    <artifactId>gson</artifactId>
+		    <version>2.2.4</version>
+		</dependency>
 	</dependencies>
     <build>
         <plugins>
