@@ -29,6 +29,7 @@
 					<br/><br/><br/><br/>
 					<a href="<c:url value="new.htm"/>" class="btn btn-info">Agregar Contacto</a><br/>
 					<a href="#" class="btn btn-info">Eliminar Contacto</a><br/>
+                                        <a href="registro.htm" class="btn btn-info">Agregar Contacto</a><br/>
 				</div>
 			</div>
 		</div>
