@@ -27,7 +27,7 @@
 				</div>
 				<div class="form-group col-sm-12 col-md-3 col-lg-3">
 					<br/><br/><br/><br/>
-					<a href="#" class="btn btn-info">Agregar Contacto</a><br/>
+					<a href="<c:url value="new.htm"/>" class="btn btn-info">Agregar Contacto</a><br/>
 					<a href="#" class="btn btn-info">Eliminar Contacto</a><br/>
 				</div>
 			</div>
