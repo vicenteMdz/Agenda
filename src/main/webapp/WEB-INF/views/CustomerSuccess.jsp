@@ -22,14 +22,6 @@
 <td>Direccion :</td><td>${customer.address}</td>
 </tr>
 <tr>
-<td>Frameworks Web Favoritos :</td>
-<td>
-<c:forEach items="${customer.favFramework}" var="current">
-   [<c:out value="${current}" />]
-</c:forEach>
-</td>
-</tr>
-<tr>
 <td>Sexo :</td><td>${customer.sex}</td>
 </tr>
 <tr>
